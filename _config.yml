@@ -13,22 +13,24 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CSE 390HA
-tagline: Restorying Computing
-description: CSE 142 Honors Seminar, Autumn 2020
-author: Kevin Lin
-baseurl: '/courses/cse390ha/20au' # the subpath of your site, e.g. /blog
-url: 'https://courses.cs.washington.edu' # the base hostname & protocol for your site, e.g. http://example.com
+title: CS4405 Analysis of Concurrent and Distributed Programs
+tagline: Analysis of Concurrent and Distributed Programs
+description: CS4405, Spring 2022
+repository: cs4405/course-webpage
+
+author: Soham Chakraborty, Burcu Kulahcioglu Ozkan
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'https://cs4405.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
-google_site_verification: 'QclY_1udbdKts462GzFHLmFoaioICIQ16kjZumjRJIg'
+google_site_verification: ''
 
 # Theme settings
-remote_theme: pmarsceill/just-the-docs@v0.3.3
-color_scheme: light
+remote_theme: pmarsceill/just-the-docs
+color_scheme: cs4405
 search_enabled: false
 heading_anchors: false
 permalink: pretty
-footer_content: 'Kevin Lin &copy; 2020 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
+footer_content: 'Soham Chakraborty, Burcu Kulahcioglu Ozkan, TU Delft &copy; 2022 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>'
 
 # Collections for website data
 collections:
