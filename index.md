@@ -33,8 +33,8 @@ This course aims to explore analysis techniques for concurrent and distributed p
 
 * **5 ECTS:** You need to devote at least 140 hours of study for this course.  
 * **Online meetings:** The course consists of 14 2-hour meetings. You are not required, but you are strongly encouraged, to attend.
-* **Assignments:** 
-* **Project:** 
+* **Assignments:** Two homework assignments ((2 x 10%) of the course grade)
+* **Project:** Project implementation, report, and a presentation (80% of the course grade)
 * **Teams:** The students are responsible to form teams and communicate them to the course TAs.
 <!-- * **Teaching Assistants:** Teaching assistants will provide you with feedback on your assignments and projects. Do be active in asking questions, but don’t expect them to provide you with solutions. (TODO: Office hours?) -->
 
@@ -53,3 +53,8 @@ This course aims to explore analysis techniques for concurrent and distributed p
 
 The schedule is subject to small changes during the term.
  
+## Course projects:
+ 
+- **Checking linearizability or sequential consistency of a distributed database system:** In this project, you will test a distributed database of your choice and check whether its executions satisfy linearizability or sequential consistency properties. [More information](https://surfdrive.surf.nl/files/index.php/s/Gvc5hRTnhIAiRvr)
+
+Alternatively, you can suggest your own project that involves **replicating an existing work** or **proposing a new approach to an existing problem**. If you have exciting ideas for the course project, contact the TA's and the teachers to determine the context of your project. 
