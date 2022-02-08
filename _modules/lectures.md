@@ -2,9 +2,9 @@
 ---
 
 Feb 09
-: Introduction to Concurrency  
+: Introduction to concurrency  
 	:  SC
-: 1. [Course intro](https://brightspace.tudelft.nl/d2l/home/399681)
+: 1. [Course intro](../slides/lecture-1.pdf)
 
 Feb 11
 : Primitives for concurrent programs  
