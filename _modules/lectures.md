@@ -9,6 +9,7 @@ Feb 09
 Feb 11
 : Primitives for concurrent programs  
 	:  SC
+: 1. [Slide](../slides/lecture-2.pdf)	
 
 Feb 16
 : Symptoms of concurrency bugs 
