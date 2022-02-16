@@ -14,7 +14,7 @@ Feb 11
 Feb 16
 : Symptoms of concurrency bugs 
 	: SC
-: 3. [Slide](../slides/lecture-3.pdf)
+: 2. [Slide](../slides/lecture-3.pdf)
  
 Feb 18 
 : Concurrency analysis for multithreaded programs 
