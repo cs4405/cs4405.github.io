@@ -19,6 +19,7 @@ Feb 16
 Feb 18 
 : Concurrency analysis for multithreaded programs 
 	: SC
+: 2. [Slide](../slides/lecture-4.pdf)
 
 Feb 23 
 : Lock-free synchronization 
