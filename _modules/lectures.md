@@ -24,6 +24,7 @@ Feb 18
 Feb 23 
 : Lock-free synchronization 
 	: SC
+: 2. [Slide](../slides/lecture-5.pdf)
 
 Feb 25
 : Weak-memory consistency – I 
