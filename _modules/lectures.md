@@ -28,7 +28,8 @@ Feb 23
 
 Feb 25
 : Weak-memory consistency – I 
-	: SC
+	: SC 
+: 2. [Slide](../slides/lecture-6.pdf)
 
 Mar 02
 : Weak-memory consistency – II 
