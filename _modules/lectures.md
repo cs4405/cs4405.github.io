@@ -34,6 +34,7 @@ Feb 25
 Mar 02
 : Weak-memory consistency – II 
 	: SC
+: 2. [Slide](../slides/lecture-7.pdf)
 
 Mar 04
 : Many flavors of concurrency 
