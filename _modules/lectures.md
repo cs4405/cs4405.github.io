@@ -38,7 +38,8 @@ Mar 02
 
 Mar 04
 : Many flavors of concurrency 
-	: [Asynchronous and event-driven programming](../slides/lecture-8.pdf)
+	: BKO
+: 1. [Asynchronous and event-driven programming](../slides/lecture-8.pdf)	
 
 Mar 09 
 : More on distributed concurrency 
