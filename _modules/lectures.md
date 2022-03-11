@@ -42,27 +42,28 @@ Mar 04
 : 1. [Asynchronous and event-driven programming](../slides/lecture-8.pdf)	
 
 Mar 09 
-: More on distributed concurrency 
+: Distributed concurrency 
 	: BKO
 : 1. [Introduction to distributed systems](../slides/lecture-9.pdf)	
 
 Mar 11
-: Concurrency analysis for distributed systems 
+: More on distributed concurrency 
 	: BKO
+: 1. [Distributed decision making](../slides/lecture-10.pdf)	
 
 Mar 16
-: Replicated systems: Linearizability & CAP Theorem 
+: Concurrency analysis for distributed systems  
 	: BKO
 
 Mar 18
-: Replicated systems: Strong vs weak consistency 
+: Linearizability & CAP Theorem  
 	: BKO
 
 Mar 23-25
 : In-progress project evaluation
 
 Mar 30
-: Replicated systems: Strong vs weak isolation  
+: Weak consistency and isolation
 	: BKO
 
 Apr 01
