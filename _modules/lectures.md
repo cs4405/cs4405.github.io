@@ -54,16 +54,21 @@ Mar 11
 Mar 16
 : Concurrency analysis for distributed systems  
 	: BKO
+: 1. [Time and order in distributed systems](../slides/lecture-11-1.pdf)
+
+: 2. [Concurrency analysis for distributed systems](../slides/lecture-11-2.pdf)	
 
 Mar 18
-: Linearizability & CAP Theorem  
+: Strong consistency: SC and Linearizability   
 	: BKO
+: 1. [SC and Linearizability](../slides/lecture-12.pdf)
+	
 
 Mar 23-25
 : In-progress project evaluation
 
 Mar 30
-: Weak consistency and isolation
+: Weak consistency and weak isolation models
 	: BKO
 
 Apr 01
