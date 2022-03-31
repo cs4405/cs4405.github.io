@@ -68,8 +68,9 @@ Mar 23-25
 : In-progress project evaluation
 
 Mar 30
-: Weak consistency and weak isolation models
+: CAP theorem & weak consistency
 	: BKO
+: 1. [CAP, weak consistency, weak isolation](../slides/lecture-13.pdf)	
 
 Apr 01
 : Active research directions
@@ -78,5 +79,5 @@ Apr 01
 Apr 06-08
 : No lectures
 
-Apr 12-14
+Apr 13-15
 : Final project presentations
