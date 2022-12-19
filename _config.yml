@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: CS4405 Analysis of Concurrent and Distributed Programs
 tagline: Analysis of Concurrent and Distributed Programs
-description: CS4405, Spring 2022
+description: 
 repository: cs4405/course-webpage
 
 author: Soham Chakraborty, Burcu Kulahcioglu Ozkan

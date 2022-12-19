@@ -4,15 +4,17 @@ title: CS4405 Analysis of Concurrent and Distributed Programs
 nav_exclude: true
 seo:
   type: Course
-  name: CS4405 Analysis of Concurrent and Distributed Programs\
+  name: CS4405 Analysis of Concurrent and Distributed Programs
 ---
+
 
 # {{ site.tagline }}
 {: .mb-2 }
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-## CS 4405, Spring 2023
+## CS 4405, Spring 2022
+
 
 ## Course description:
 
@@ -29,7 +31,8 @@ This course aims to explore analysis techniques for concurrent and distributed p
 
 * **5 ECTS:** You need to devote at least 140 hours of study for this course.  
 * **Online meetings:** The course consists of 14 2-hour meetings. You are not required, but you are strongly encouraged, to attend.
-* **Project:** Project implementation, report, and a presentation (100% of the course grade)
+* **Assignments:** Two homework assignments ((2 x 10%) of the course grade)
+* **Project:** Project implementation, report, and a presentation (80% of the course grade)
 * **Teams:** The students are responsible to form teams and communicate them to the course TAs.
 <!-- * **Teaching Assistants:** Teaching assistants will provide you with feedback on your assignments and projects. Do be active in asking questions, but don’t expect them to provide you with solutions. (TODO: Office hours?) -->
 
@@ -49,14 +52,12 @@ This course aims to explore analysis techniques for concurrent and distributed p
 
 ## Course schedule:
 
-{% assign currentschedule = site.modules | where: 'year', '2023' %}
+{% assign currentschedule = site.modules | where: 'year', '2022' %}
 {% for module in currentschedule %}
 {{ module }}
 {% endfor %}
 
 The schedule is subject to small changes during the term.
- 
-You can access the last year's edition [here](../2022).
  
 ## Course projects:
  
@@ -65,8 +66,3 @@ You can access the last year's edition [here](../2022).
 - **Checking linearizability or sequential consistency of a distributed database system:** In this project, you will test a distributed database of your choice and check whether its executions satisfy linearizability or sequential consistency properties. [More information](files/2022-distributed-systems-project.pdf)
 
 Alternatively, you can suggest your own project that involves **replicating an existing work** or **proposing a new approach to an existing problem**. If you have exciting ideas for the course project, contact the TA's and the teachers to determine the context of your project. 
-
-
-### Example projects from the previous editions:
-
-- Testing consistency of the rqlite database (by Nienke Eijsvogel, Ruben van Baarle, Daan de Graaf) [[GitHub]](https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md) [[Hacker News]](https://news.ycombinator.com/item?id=31089363)
