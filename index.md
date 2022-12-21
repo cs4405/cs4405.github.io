@@ -42,10 +42,12 @@ This course aims to explore analysis techniques for concurrent and distributed p
 
 ## Teaching assistants
 
-{% assign tas = site.staffers | where: 'role', 'TA' %}
+TBA
+
+<!-- {% assign tas = site.staffers | where: 'role', 'TA' %}
 {% for staffer in tas %}
 {{ staffer }}
-{% endfor %}
+{% endfor %} -->
 
 ## Course schedule:
 

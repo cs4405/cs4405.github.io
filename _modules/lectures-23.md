@@ -8,79 +8,65 @@ Feb 15
 
 
 Feb 17
-: Primitives for concurrent programs  
+: Concurrency primitives and bugs 
 	:  SC
-: [Slide](../slides/lecture-2.pdf)	
+: [Concurrency primitives](../slides/lecture-2.pdf)	
+: [Concurrency bugs](../slides/lecture-3.pdf)
+: [Lock-free synchronization](../slides/lecture-5.pdf)
 
 
 Feb 22
-: Symptoms of concurrency bugs 
-	: SC
-: [Slide](../slides/lecture-3.pdf)
-
- 
-Feb 24 
 : Concurrency analysis for multithreaded programs 
 	: SC
 : [Slide](../slides/lecture-4.pdf)
 
-
-Mar 01 
-: Lock-free synchronization 
-	: SC
-: [Slide](../slides/lecture-5.pdf)
-
-
-Mar 03
+ 
+Feb 24 
 : Weak-memory consistency – I 
 	: SC 
 : [Slide](../slides/lecture-6.pdf)
 
 
-Mar 08
+Mar 01
 : Weak-memory consistency – II 
-	: SC
+	: SC 
 : [Slide](../slides/lecture-7.pdf)
 
 
-Mar 10
+Mar 03
 : Distributed concurrency 
 	: BKO
 : [Introduction to distributed systems](../slides/ds-intro.pdf)
 : [Time and order in distributed systems](../slides/ds-time-order.pdf)
+
+
+Mar 08
+: Concurrency analysis for distributed systems 
+	: BKO
+: [Concurrency analysis for distributed systems](../slides/ds-concurrency-analysis.pdf)
+: [Distributed decision making](../slides/ds-consensus.pdf)
+
+	
+Mar 10
+: Strong consistency: SC and Linearizability   
+	: BKO
+: [SC and Linearizability](../slides/ds-linearizability.pdf)
 	
 	
 Mar 15-17
 : No lectures 
 
-	
-Mar 22
-: Concurrency analysis for distributed systems 
-	: BKO
-: [Concurrency analysis for distributed systems](../slides/ds-concurrency-analysis.pdf)
-
 
 Mar 24
-: Strong consistency: SC and Linearizability   
-	: BKO
-: [Distributed decision making](../slides/ds-consensus.pdf)
-: [SC and Linearizability](../slides/ds-linearizability.pdf)
-
-
-Mar 29-31
-: In-progress project evaluation
-
-
-Apr 05
-: CAP theorem & weak consistency 
+: CAP theorem & weak consistency and isolation 
 	: BKO
 : [CAP, weak consistency](../slides/ds-weak-consistency.pdf)
 
+<!-- Mar 29-31
+: No lectures -->
 
-Apr 12
-: Weak transaction isolation 
-	: BKO
-: Weak isolation models
+Apr 05-07
+: In-progress project evaluation
 
 <!--
 Apr 14
