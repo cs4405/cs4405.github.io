@@ -44,12 +44,12 @@ Mar 08
 : Concurrency analysis for distributed systems 
 	: BKO
 : [Concurrency analysis for distributed systems](../slides/ds-concurrency-analysis.pdf)
-: [Distributed decision making](../slides/ds-consensus.pdf)
-
+: Randomized concurrency testing with theoretical guarantees
 	
 Mar 10
 : Strong consistency: SC and Linearizability   
 	: BKO
+: [Distributed consensus](../slides/ds-consensus.pdf)
 : [SC and Linearizability](../slides/ds-linearizability.pdf)
 	
 	
@@ -60,7 +60,7 @@ Mar 15-17
 Mar 24
 : CAP theorem & weak consistency and isolation 
 	: BKO
-: [CAP, weak consistency](../slides/ds-weak-consistency.pdf)
+: [Weak consistency and isolation](../slides/ds-weak-consistency.pdf)
 
 <!-- Mar 29-31
 : No lectures -->

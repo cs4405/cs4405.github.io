@@ -28,8 +28,8 @@ This course aims to explore analysis techniques for concurrent and distributed p
 ## Course organization
 
 * **5 ECTS:** You need to devote at least 140 hours of study for this course.  
-* **Online meetings:** The course consists of 14 2-hour meetings. You are not required, but you are strongly encouraged, to attend.
-* **Project:** Project implementation, report, and a presentation (100% of the course grade)
+* **Online meetings:** The course consists of 10 2-hour meetings. You are not required, but you are strongly encouraged, to attend.
+* **Project:** Project implementation, report, and a presentation 
 * **Teams:** The students are responsible to form teams and communicate them to the course TAs.
 <!-- * **Teaching Assistants:** Teaching assistants will provide you with feedback on your assignments and projects. Do be active in asking questions, but don’t expect them to provide you with solutions. (TODO: Office hours?) -->
 
