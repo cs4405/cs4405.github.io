@@ -42,7 +42,8 @@ This course aims to explore analysis techniques for concurrent and distributed p
 
 ## Teaching assistants
 
-TBA
+- [Ege Berkay Gulcan](mailto:e.b.gulcan@tudelft.nl)
+- [Daan de Graaf](mailto:d.j.a.degraaf@student.tudelft.nl)
 
 <!-- {% assign tas = site.staffers | where: 'role', 'TA' %}
 {% for staffer in tas %}
