@@ -35,10 +35,14 @@ This course aims to explore analysis techniques for concurrent and distributed p
 
 ## Teachers:
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+
+- [Soham Chakraborty](https://www.st.ewi.tudelft.nl/sschakraborty/)
+- [Burcu Kulahcioglu Ozkan](https://burcuku.github.io/home/)
+
+<!-- {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
 {{ staffer}}
-{% endfor %}
+{% endfor %}-->
 
 ## Teaching assistants
 
