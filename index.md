@@ -67,9 +67,13 @@ You can access the last year's edition [here](../2022).
  
 ## Course projects:
  
-- **Data Race Detection in C/C++ Concurrent Programs:** In this project, you will detect data races in the executions of C11 concurrent programs. [More information](files/2022-shared-memory-project.pdf)
+- [Data race detection for C/C++ concurrent programs](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3097501/View)
 
-- **Checking linearizability or sequential consistency of a distributed database system:** In this project, you will test a distributed database of your choice and check whether its executions satisfy linearizability or sequential consistency properties. [More information](files/2022-distributed-systems-project.pdf)
+- [Concurrency Testing of Weak Memory Programs](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3097504/View)
+
+- [Detecting Concurrency Related Flaky tests in Android apps](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3097502/View)
+
+- [Checking linearizability and SC of distributed databases](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/2839148/View)
 
 Alternatively, you can suggest your own project that involves **replicating an existing work** or **proposing a new approach to an existing problem**. If you have exciting ideas for the course project, contact the TA's and the teachers to determine the context of your project. 
 
