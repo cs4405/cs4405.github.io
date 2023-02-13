@@ -3,8 +3,9 @@ year: '2023'
 ---
 
 Feb 13
-: Introduction to concurrency  
+: [Introduction to concurrency](../slides/2023/lecture-1-intro.pdf)  
 	:  BKO
+
 
 
 Feb 15
@@ -27,7 +28,7 @@ Feb 22
 : [Slide](../slides/lecture-6.pdf)
 
 
-Mar 27
+Feb 27
 : Weak-memory consistency – II 
 	: SC 
 : [Slide](../slides/lecture-7.pdf)
