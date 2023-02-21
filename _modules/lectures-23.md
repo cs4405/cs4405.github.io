@@ -13,20 +13,12 @@ Feb 15
 	:  SC
 : [Slide](../slides/2023/CS4405_2023_L2.pdf)	
 
-<!--	
-: [Concurrency primitives](../slides/2023/lecture-2.pdf)	
-: [Concurrency bugs](../slides/2023/lecture-3.pdf)
-: [Lock-free synchronization](../slides/2023/lecture-5.pdf)
--->
 
 Feb 20
 : Concurrency analysis for multithreaded programs 
 	: SC
 : [Slide](../slides/2023/CS4405_2023_L3.pdf)
 
-<!--
-: [Slide](../slides/2023/lecture-4.pdf)
--->
  
 Feb 22 
 : Weak-memory consistency – I 
