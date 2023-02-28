@@ -37,8 +37,9 @@ Feb 27
 Mar 01
 : Distributed concurrency 
 	: BKO
-: [Introduction to distributed systems](../slides/2023/ds-intro.pdf)
-: [Time and order in distributed systems](../slides/2023/ds-time-order.pdf)
+: [Introduction to distributed systems](../slides/2023/CS4405_2023_L6-1.pdf)
+: [Time, order, and causality in distributed systems](../slides/2023/CS4405_2023_L6-2.pdf)
+: [Distributed consensus](../slides/2023/CS4405_2023_L6-3.pdf)
 
 
 Mar 06
@@ -50,7 +51,6 @@ Mar 06
 Mar 08
 : Strong consistency: SC and Linearizability   
 	: BKO
-: [Distributed consensus](../slides/2023/ds-consensus.pdf)
 : [SC and Linearizability](../slides/2023/ds-linearizability.pdf)
 	
 	
