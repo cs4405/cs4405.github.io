@@ -31,7 +31,7 @@ Feb 22
 Feb 27
 : Weak-memory consistency – II 
 	: SC 
-: [Slide](../slides/2023/lecture-7.pdf)
+: [Slide](../slides/2023/CS4405_2023_L5.pdf)
 
 
 Mar 01
