@@ -3,7 +3,7 @@ year: '2023'
 ---
 
 Feb 13
-: [Introduction to concurrency](../slides/2023/lecture-1-intro.pdf)  
+: [Introduction to concurrency](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3116489/View)  
 	:  BKO
 
 
@@ -11,47 +11,47 @@ Feb 13
 Feb 15
 : Concurrency primitives and bugs 
 	:  SC
-: [Slide](../slides/2023/CS4405_2023_L2.pdf)	
+: [Slide](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3116491/View)	
 
 
 
 Feb 20
 : Concurrency analysis for multithreaded programs 
 	: SC
-: [Slide](../slides/2023/CS4405_2023_L3.pdf)
+: [Slide](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3116498/View)
 
 
  
 Feb 22 
-: Weak-memory consistency – I 
+: Weak-memory concurrency – I 
 	: SC 
-: [Slide](../slides/2023/CS4405_2023_L4.pdf)
+: [Slide](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3116499/View)
 
 
 Feb 27
-: Weak-memory consistency – II 
+: Weak-memory concurrency – II 
 	: SC 
-: [Slide](../slides/2023/CS4405_2023_L5.pdf)
+: [Slide](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3116501/View)
 
 
 Mar 01
 : Distributed concurrency 
 	: BKO
-: [Introduction to distributed systems](../slides/2023/CS4405_2023_L6-1.pdf)
-: [Time, order, and causality in distributed systems](../slides/2023/CS4405_2023_L6-2.pdf)
-: [Distributed consensus](../slides/2023/CS4405_2023_L6-3.pdf)
+: [Introduction to distributed systems](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3116502/View)
+: [Time, order, and causality in distributed systems](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3116504/View)
 
 
 Mar 06
-: Concurrency analysis for distributed systems 
+: Concurrency analysis for distributed systems - I
 	: BKO
-: [Concurrency analysis for distributed systems](../slides/2023/ds-concurrency-analysis.pdf)
-: Randomized concurrency testing with theoretical guarantees
+: [Distributed consensus](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3116506/View)
+: [Concurrency analysis for distributed systems](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3116507/View)
 	
 Mar 08
-: Strong consistency: SC and Linearizability   
+: Concurrency analysis for distributed systems - II   
 	: BKO
-: [SC and Linearizability](../slides/2023/ds-linearizability.pdf)
+: [Probabilistic concurrency testing](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3116509/View)
+: [SC and Linearizability](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3116508/View)
 	
 	
 Mar 13-15
@@ -59,9 +59,9 @@ Mar 13-15
 
 
 Mar 22
-: CAP theorem & weak consistency and isolation 
+: Weak consistency and isolation 
 	: BKO
-: [Weak consistency and isolation](../slides/2023/ds-weak-consistency.pdf)
+: Weak consistency and isolation
 
 <!-- Mar 29-31
 : No lectures -->
