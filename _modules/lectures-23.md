@@ -57,6 +57,9 @@ Mar 08
 Mar 13-15
 : No lectures 
 
+Mar 20
+: Project discussion
+	: SC
 
 Mar 22
 : Weak consistency and isolation 
