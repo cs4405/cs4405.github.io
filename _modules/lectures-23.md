@@ -64,7 +64,7 @@ Mar 20
 Mar 22
 : Weak consistency and isolation 
 	: BKO
-: Weak consistency and isolation
+: [Slides](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3129773/View)
 
 <!-- Mar 29-31
 : No lectures -->
