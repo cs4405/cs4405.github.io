@@ -12,7 +12,7 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-## CS 4405, Spring 2024
+## CS 4405, Spring 2023
 
 ## Course description:
 
@@ -29,9 +29,8 @@ This course aims to explore analysis techniques for concurrent and distributed p
 
 * **5 ECTS:** You need to devote at least 140 hours of study for this course.  
 * **Online meetings:** The course consists of 10 2-hour meetings. You are not required, but you are strongly encouraged, to attend.
-* **Assignments:** Two homework assignments ((2 x 10%) of the course grade)
-* **Project:** Project implementation, report, and a presentation (80% of the course grade)* 
-**Teams:** The students are responsible to form teams and communicate them to the course TAs.
+* **Project:** Project implementation, report, and a presentation 
+* **Teams:** The students are responsible to form teams and communicate them to the course TAs.
 <!-- * **Teaching Assistants:** Teaching assistants will provide you with feedback on your assignments and projects. Do be active in asking questions, but don’t expect them to provide you with solutions. (TODO: Office hours?) -->
 
 ## Teachers:
@@ -47,7 +46,8 @@ This course aims to explore analysis techniques for concurrent and distributed p
 
 ## Teaching assistants
 
-- [Niyousha Najmaei](mailto:N.Najmaei@student.tudelft.nl)
+- [Ege Berkay Gulcan](mailto:e.b.gulcan@tudelft.nl)
+- [Daan de Graaf](mailto:d.j.a.degraaf@student.tudelft.nl)
 
 <!-- {% assign tas = site.staffers | where: 'role', 'TA' %}
 {% for staffer in tas %}
@@ -56,24 +56,24 @@ This course aims to explore analysis techniques for concurrent and distributed p
 
 ## Course schedule:
 
-{% assign currentschedule = site.modules | where: 'year', '2024' %}
+{% assign currentschedule = site.modules | where: 'year', '2023' %}
 {% for module in currentschedule %}
 {{ module }}
 {% endfor %}
 
 The schedule is subject to small changes during the term.
  
-You can access the last year's edition [here](../2023).
+You can access the last year's edition [here](../2022).
  
 ## Course projects:
  
 - [Data race detection for C/C++ concurrent programs](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3097501/View)
 
-- [Proving compiler mappings for concurrency]()
+- [Concurrency Testing of Weak Memory Programs](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3097504/View)
 
-- [Testing Distributed Systems - 1: Checking linearizability and SC of distributed databases](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/2839148/View)
+- [Detecting Concurrency Related Flaky tests in Android apps](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3097502/View)
 
-- [Testing Distributed Systems - 2: Testing consensus implementations]()
+- [Checking linearizability and SC of distributed databases](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/2839148/View)
 
 Alternatively, you can suggest your own project that involves **replicating an existing work** or **proposing a new approach to an existing problem**. If you have exciting ideas for the course project, contact the TA's and the teachers to determine the context of your project. 
 
