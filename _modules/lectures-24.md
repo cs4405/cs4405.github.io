@@ -5,7 +5,8 @@ year: '2024'
 Feb 12
 : [Introduction to concurrency]()  
 	:  SC
-
+: [Slide](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3613357/View)		
+	
 
 
 Feb 14
