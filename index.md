@@ -30,9 +30,19 @@ This course aims to explore analysis techniques for concurrent and distributed p
 * **5 ECTS:** You need to devote at least 140 hours of study for this course.  
 * **Online meetings:** The course consists of 10 2-hour meetings. You are not required, but you are strongly encouraged, to attend.
 * **Assignments:** Two homework assignments ((2 x 10%) of the course grade)
-* **Project:** Project implementation, report, and a presentation (80% of the course grade)* 
-**Teams:** The students are responsible to form teams and communicate them to the course TAs.
+* **Project:** Project implementation, report, and a presentation (80% of the course grade)
+* **Teams:** The students are responsible to form teams and communicate them to the course TAs.
 <!-- * **Teaching Assistants:** Teaching assistants will provide you with feedback on your assignments and projects. Do be active in asking questions, but don’t expect them to provide you with solutions. (TODO: Office hours?) -->
+
+### Study goals:
+
+By the end of this course, you should be able to:
+
+* Describe the fundamental concurrency models in multicore and distributed systems  
+* Explain the concurrency nondeterminism in the executions of concurrent and distributed programs  
+* Discover concurrency bugs in multicore and distributed programs by program analysis and testing techniques  
+* Evaluate the pros and cons of program analysis and testing techniques for specific multicore and distributed programs
+
 
 ## Teachers:
 
@@ -80,4 +90,4 @@ Alternatively, you can suggest your own project that involves **replicating an e
 
 ### Example projects from the previous editions:
 
-- Testing consistency of the rqlite database (by Nienke Eijsvogel, Ruben van Baarle, Daan de Graaf) [[GitHub]](https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md) [[Hacker News]](https://news.ycombinator.com/item?id=31089363)
+- Testing consistency of the rqlite distributed database (by Nienke Eijsvogel, Ruben van Baarle, Daan de Graaf) [[GitHub]](https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md) [[Hacker News]](https://news.ycombinator.com/item?id=31089363)

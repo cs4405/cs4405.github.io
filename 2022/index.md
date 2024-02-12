@@ -36,6 +36,15 @@ This course aims to explore analysis techniques for concurrent and distributed p
 * **Teams:** The students are responsible to form teams and communicate them to the course TAs.
 <!-- * **Teaching Assistants:** Teaching assistants will provide you with feedback on your assignments and projects. Do be active in asking questions, but don’t expect them to provide you with solutions. (TODO: Office hours?) -->
 
+### Study goals:
+
+By the end of this course, you should be able to:
+
+* Describe the fundamental concurrency models in multicore and distributed systems  
+* Explain the concurrency nondeterminism in the executions of concurrent and distributed programs  
+* Discover concurrency bugs in multicore and distributed programs by program analysis and testing techniques  
+* Evaluate the pros and cons of program analysis and testing techniques for specific multicore and distributed programs
+
 ## Teachers:
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
