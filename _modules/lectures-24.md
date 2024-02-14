@@ -8,29 +8,27 @@ Feb 12
 	
 
 Feb 14
+: Weak-memory concurrency – I 
+	: SC 
+: [Slide](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3615425/View)
+
+	
+Feb 19
+: Weak-memory concurrency – II 
+	: SC 
+: [Slide](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3116501/View)
+
+ 
+Feb 21 
 : Concurrency primitives and bugs 
 	:  SC
-: [Slide](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3116491/View)	
+: [Slide](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3116491/View)
 
-
-
-Feb 19
+Feb 26
 : Concurrency analysis for multithreaded programs 
 	: SC
 : [Slide](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3116498/View)
 
-
- 
-Feb 21 
-: Weak-memory concurrency – I 
-	: SC 
-: [Slide](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3116499/View)
-
-
-Feb 26
-: Weak-memory concurrency – II 
-	: SC 
-: [Slide](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3116501/View)
 
 
 Feb 28
