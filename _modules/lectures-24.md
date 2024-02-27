@@ -39,15 +39,16 @@ Feb 28
 : [Distributed consensus - I](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3621928/View)
 
 Mar 04
-: Concurrency analysis for distributed systems - I
+: Concurrency analysis of distributed systems - I
 	: BKO
 : [Distributed consensus - II](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3621928/View)	
 : [Concurrency analysis for distributed systems](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3621932/View)
 
 	
 Mar 06
-: Concurrency analysis for distributed systems - II   
+: Concurrency analysis of distributed systems - II   
 	: BKO
+: [Concurrency testing of distributed systems](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3621933/View)
 : [Probabilistic Concurrency Testing (PCT)](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3621933/View)
 
 	
