@@ -83,7 +83,7 @@ You can access the last year's edition [here](../2023).
 
 - [Testing Distributed Systems - 1: Checking linearizability and SC of distributed databases](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/2839148/View)
 
-- [Testing Distributed Systems - 2: Testing consensus implementations]()
+- [Testing Distributed Systems - 2: Testing consensus implementations](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3622109/View)
 
 Alternatively, you can suggest your own project that involves **replicating an existing work** or **proposing a new approach to an existing problem**. If you have exciting ideas for the course project, contact the TA's and the teachers to determine the context of your project. 
 
