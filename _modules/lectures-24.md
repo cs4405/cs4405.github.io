@@ -34,21 +34,21 @@ Feb 26
 Feb 28
 : Distributed concurrency 
 	: BKO
-: [Introduction to distributed systems](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3116502/View)
-: [Time, order, and causality](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3116504/View)
-
+: [Introduction to distributed systems](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3621921/View)
+: [Time, order, and causality](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3621923/View)
+: [Distributed consensus - I](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3621928/View)
 
 Mar 04
 : Concurrency analysis for distributed systems - I
 	: BKO
-: [Concurrency analysis for distributed systems](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3116507/View)
-: [Probabilistic concurrency testing](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3116509/View)
+: [Distributed consensus - II](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3621928/View)	
+: [Concurrency analysis for distributed systems](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3621932/View)
+
 	
 Mar 06
 : Concurrency analysis for distributed systems - II   
 	: BKO
-: [Distributed consensus](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3116506/View)
-: [SC and Linearizability](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3116508/View)
+: [Probabilistic Concurrency Testing (PCT)](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3621933/View)
 
 	
 Mar 11-13
@@ -56,9 +56,11 @@ Mar 11-13
 
 
 Mar 18
-: Weak consistency and isolation 
+: Consistency and isolation in distributed systems
 	: BKO
-: [Slides](https://brightspace.tudelft.nl/d2l/le/content/499377/viewContent/3129773/View)
+: [Strong consistency and linearizability](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3621935/View)
+
+: [Weak consistency and weak isolation](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3621936/View)
 
 <!-- Mar 29-31
 : No lectures -->
