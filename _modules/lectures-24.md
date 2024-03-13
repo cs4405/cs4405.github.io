@@ -48,8 +48,8 @@ Mar 04
 Mar 06
 : Concurrency analysis of distributed systems - II   
 	: BKO
-: [Concurrency testing of distributed systems](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3621933/View)
-: [Probabilistic Concurrency Testing (PCT)](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3621933/View)
+: [Concurrency and fault-tolerance bugs in distributed systems](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3629503/View)
+: [Concurrency testing of distributed systems](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3621593/View)
 
 	
 Mar 11-13
