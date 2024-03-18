@@ -58,10 +58,12 @@ Mar 11-13
 
 Mar 18
 : Consistency and isolation in distributed systems
-	: BKO
-: [Strong consistency and linearizability](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3621935/View)
+	: BKO  
+: [Replication and Consistency](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3631867/View)
+	
+: [Strong consistency: SC and Linearizability](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3621935/View)
 
-: [Weak consistency and weak isolation](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3621936/View)
+: [Weak consistency and isolation](https://brightspace.tudelft.nl/d2l/le/content/595274/viewContent/3621936/View) (Weak isolation is for optional read)
 
 <!-- Mar 29-31
 : No lectures -->
